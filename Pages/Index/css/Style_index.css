@@ -1,0 +1,32 @@
+.logo{
+	max-width: 109px;
+	max-height: 76px;
+	padding: 0px 0px 0px 0px;
+}
+.principal{
+	background: #222;
+	color: #FFF;
+	height: 100px;
+}
+.galeria{
+	background: red;
+	height: 450px;
+}
+.sec1{
+	color: white;
+	background: #2C3E50;
+}
+.sec2{
+	
+	
+}
+.sec3{
+
+	background: #bfbfbf;
+	
+}
+footer{
+	background: #2C3E50;
+	color: #FFF;
+	height: 100px;
+}
