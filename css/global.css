@@ -9,11 +9,17 @@ body{
 	max-height: 76px;
 	
 }
+.l-1{
+	color:#0B4A26;
+}
+.l-2{
+	color:#2C9742;
+}
 
 .principal{
 	background: #5E7717;
 	color: #FFF;
-	max-height: 75px;
+	max-height: 77px;
 	padding: 0px 0px 0px 4%;
 }
 .barra{
@@ -66,6 +72,6 @@ footer{
 }
 @media (max-width: 767px){
 	.redes{
-		padding: 0 0 0 12%;
+		padding: 0 0 0 30%;
 	}
 }
