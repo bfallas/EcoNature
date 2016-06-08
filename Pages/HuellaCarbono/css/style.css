@@ -1,0 +1,11 @@
+.ima{
+	background: white;
+	max-height: 454px;
+	padding: 0px 0px 0px 11%;
+	border:solid 1px #F2F2EB;
+	
+}
+.ima img{
+	max-height: 450px;
+	max-width: 213px;
+}

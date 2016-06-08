@@ -1,5 +1,5 @@
 body{
-	background: #D8DBD6;
+	background: #F2F2EB;
 }
 .navbar{
 	margin-bottom: 0px;
@@ -33,6 +33,15 @@ body{
 	max-height: 450px;
 	width: 100%
 
+}
+.sec-1{
+	color: #333333;
+	background: transparent;
+	margin-bottom: 20px;
+}
+.sec{
+	background: #FFFFFF;
+	border:solid 1px #F2F2EB;
 }
 footer{
 	background: #2C3E50;
