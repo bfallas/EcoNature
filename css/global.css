@@ -9,9 +9,7 @@ body{
 	max-height: 76px;
 	
 }
-.redes{
-	padding: 0 0 0 77%;
-}
+
 .principal{
 	background: #5E7717;
 	color: #FFF;
@@ -47,4 +45,27 @@ footer{
 	background: #2C3E50;
 	color: #FFF;
 	height: 100px;
+}
+
+@media (min-width: 1200px) { 
+	.redes{
+		padding: 0 0 0 77%;
+	}
+
+
+ }
+@media (min-width: 992px){
+	.redes{
+		padding: 0 0 0 74%;
+	}
+}
+@media (min-width: 768px){
+	.redes{
+		padding: 0 0 0 66%;
+	}
+}
+@media (max-width: 767px){
+	.redes{
+		padding: 0 0 0 12%;
+	}
 }
