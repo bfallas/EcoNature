@@ -51,6 +51,9 @@ footer{
 	background: #2C3E50;
 	color: #FFF;
 	height: 100px;
+	text-align: center;
+	line-height: 3;
+	align-self: flex-end;
 }
 
 @media (min-width: 1200px) { 
